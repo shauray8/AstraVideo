@@ -24,6 +24,7 @@ For Inference, `cd ./adapter_interpolation` and run the `inference.py` for furth
 
 **5.** migrate to Flow Matching based models, try ip-adapter approach with FLUX, once a real ip-adapter is out for it 
 
-**6.** 16 channel VAEs? 
+**6.** 16 channel VAEs?  
+
 ---
 
