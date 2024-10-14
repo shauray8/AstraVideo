@@ -22,7 +22,8 @@ For Inference, `cd ./adapter_interpolation` and run the `inference.py` for furth
 
 **4.** diffusion process comes with a lot of issues, specially the latent space, there's been a bunch of models that are now ditching the VAE altogether, I'll surely try that
 
-**5.** migrate to Flow Matching based models, try ip-adapter approch with FIFO, once a real ip-adapter is out for it 
+**5.** migrate to Flow Matching based models, try ip-adapter approach with FLUX, once a real ip-adapter is out for it 
 
+**6.** 16 channel VAEs? 
 ---
 
