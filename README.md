@@ -26,5 +26,9 @@ For Inference, `cd ./adapter_interpolation` and run the `inference.py` for furth
 
 **6.** 16 channel VAEs?  
 
+**7.** MiniMax based training technique for video training 
+
+**8.** Cog based video character generations 
+
 ---
 
