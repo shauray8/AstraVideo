@@ -18,7 +18,7 @@ And Ofcourse the inference has support for 8bit quantization and runs all the re
 
 | Video generation A | Video generation B | Interpolation (Failed)  | 2 frame disaster | 
 | ------------------ | ------------------ | ------------------- | --------------------- | 
-| ![](./assets/video_output_0_a-beautiful-vase-of-glass-with-a_1234_1024x1024x96_0.mp4) | ![](./assets/video_output_0_a-beautiful-vase-of-glass-with-a_134_1024x1024x96_1.mp4) | ![](./assets/video_output_0_a-beautiful-vase-of-glass-with-a_13434_1024x1024x96_0.mp4) | ![](./assets/video_output_0_a-beautifull-girl-transforming_1234_1024x768x96_0-Copy1.mp4) |
+| ![](./assets/video_output_1_a-beautiful-vase-of-glass-with-a_1234_1024x1024x96_0.gif) | ![](./assets/video_output_0_a-beautiful-vase-of-glass-with-a_134_1024x1024x96_1.gif) | ![](./assets/video_output_0_a-beautiful-vase-of-glass-with-a_13434_1024x1024x96_0.gif) | ![](./assets/video_output_0_a-beautifull-girl-transforming_1234_1024x768x96_0-Copy1.gif) |
 
 For Inference, `cd ./ltx-multiframe` and run the `q8_inference.py` for further instruction refer to the folder itself !
 
